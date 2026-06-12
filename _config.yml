@@ -1,0 +1,15 @@
+title: Replanta Care
+description: Documentacion del plugin de mantenimiento WordPress para clientes de Replanta
+theme: jekyll-theme-cayman
+url: https://replantadev.github.io/care-docs
+baseurl: /care-docs
+
+show_downloads: false
+google_analytics:
+
+nav_pages:
+  - index.md
+  - getting-started.md
+  - configuration.md
+  - tasks.md
+  - changelog.md
