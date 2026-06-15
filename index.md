@@ -7,7 +7,7 @@ layout: default
 
 Plugin de mantenimiento WordPress automatico para clientes de Replanta. Gestiona actualizaciones, backups, seguridad y reportes de forma invisible para el usuario final.
 
-**Version:** 1.9.0 | **Requiere:** WordPress 6.0+, PHP 7.4+ | **Licencia:** Privada (license key requerido)
+**Version:** 1.11.0 | **Requiere:** WordPress 6.0+, PHP 7.4+ | **Licencia:** Privada (license key requerido)
 
 ---
 
@@ -22,7 +22,7 @@ Replanta Care instala un sistema de mantenimiento automatico en el sitio WordPre
 | Rendimiento | Core Web Vitals, WPO, cache |
 | Contenido | Medios huerfanos, errores 404, SEO basico |
 | Reportes | Informe semanal/mensual al cliente |
-| Integraciones | Cloudflare, Backuply, Replanta Hub |
+| Integraciones | Cloudflare, Backblaze B2, Replanta Hub |
 
 ## Planes
 

@@ -152,12 +152,12 @@ Disponible en: Ecosistema
 
 ## Backup (`integrations-backup`)
 
-Integracion con sistemas de backup.
+Copia de seguridad externa via Backblaze B2.
 
-Compatible con:
-- **Backuply** (integracion nativa)
-- **UpdraftPlus** (deteccion automatica)
-- Backup nativo pre-actualizacion
+- Backup completo (BD + archivos) subido a Backblaze B2 con prefijo `{dominio}/backup_{fecha}/`
+- Backup previo automatico antes de aplicar actualizaciones
+- Frecuencia segun plan: semanal (Semilla), diario (Raiz/Ecosistema), cada 12h (addon Ecommerce)
+- Las credenciales B2 se configuran desde Replanta Hub y se envian al plugin automaticamente
 
 Disponible en: Todos (nivel de detalle segun plan)
 
