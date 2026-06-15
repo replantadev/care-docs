@@ -5,21 +5,6 @@ layout: default
 
 # Changelog
 
-## [1.11.0]
-
-- ClientPortal: panel de cliente integrado en WordPress admin con datos en tiempo real
-- Menu top-level "Replanta Care" — Mi Panel y Configuracion como submenus
-- Panel muestra: plan activo, actualizaciones del mes, backups B2, salud del sitio (gauge animado), timeline de actividad reciente
-- Hub sincroniza datos del panel automaticamente tras cada ciclo de actualizaciones
-
-## [1.10.0]
-
-- Backups unificados en Backblaze B2 para todos los planes
-- Evaluacion de riesgo de actualizaciones con Claude AI — bloqueo automatico si riesgo alto
-- Delta Reporter: tendencia de salud del sitio antes/despues de cada ciclo
-- SmartUpdates mejorado con backup previo y rollback via WP Toolkit
-- Hub envia credenciales B2 al plugin via Care /config
-
 ## [1.9.0]
 
 - Mejoras generales de estabilidad y compatibilidad con WordPress 6.7
